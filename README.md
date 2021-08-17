@@ -6,11 +6,14 @@
 - :nerd_face: Ask me about software development, API and database (SQL and NoSQL)
 - :email: How to reach me: tiago.aguiar1@hotmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapesil/)](https://www.linkedin.com/in/tiago-aguiar)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-aguiar)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiago-aguiar-moreira)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-aguiar-moreira)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=tiago-aguiar-moreira&theme=dark)](https://github.com/tiago-aguiar-moreira/)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-aguiar-moreira&hide=html&layout=compact=true&theme=dark)](https://github.com/tiago-aguiar-moreira/)
 
 <!--
 **tiago-aguiar-moreira/tiago-aguiar-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
