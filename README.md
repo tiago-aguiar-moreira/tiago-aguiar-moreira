@@ -6,17 +6,39 @@
 - :nerd_face: Ask me about software development, API and database (SQL and NoSQL)
 - :email: How to reach me: tiago.aguiar1@hotmail.com
 
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYVc5vBX8v3Hk-Z9TNFcbNQ)
+## :rocket: **Skills**
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-aguiar)
+<code><img height="32" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp"/></code>
+<code><img height="32" src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" alt="Microsoft SQL Server"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AguiarDev91)
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aguiardev)
+## :keyboard: **Social**
 
-[![card](https://github-readme-stats.vercel.app/api?username=tiago-aguiar-moreira&theme=dark)](https://github.com/tiago-aguiar-moreira/)
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-aguiar" /></a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-aguiar-moreira&hide=html&layout=compact=true&theme=dark)](https://github.com/tiago-aguiar-moreira/)
+  <a href="#" alt="Twitter">
+  <img src="https://img.shields.io/badge/-Twitter-00ACEE?style=flat-square&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/AguiarDev91"/></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/aguiardev"/></a>
+</p>  
+
+## :octocat: **Github Stats**
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-aguiar-moreira&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiago-aguiar-moreira&show_icons=true&theme=dark&line_height=27" alt="**Tiago Aguiar Moreira** github stats"/>
+</a>
 
 <!--
 **tiago-aguiar-moreira/tiago-aguiar-moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
