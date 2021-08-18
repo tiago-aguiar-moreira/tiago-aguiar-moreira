@@ -2,7 +2,7 @@
 
 - :movie_camera: I talk about technology, career and entrepreneurship on [Aguiar Dev](https://www.youtube.com/channel/UCYVc5vBX8v3Hk-Z9TNFcbNQ), my YouTube channel ![ABC](https://img.shields.io/youtube/channel/subscribers/UCYVc5vBX8v3Hk-Z9TNFcbNQ?style=social)
 - :microphone: I'm host on podcast [Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)
-- :drum: I'm learning to play drums
+- :drum: I'm learning how to play drums
 - :nerd_face: Ask me about software development, API and database (SQL and NoSQL)
 - :email: How to reach me: tiago.aguiar1@hotmail.com
 
