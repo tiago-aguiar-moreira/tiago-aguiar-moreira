@@ -19,7 +19,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch"/>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erabbitmq/rabbitmq-original.svg" alt="rabbitmq"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github"/>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg" alt="handlebars"/>
