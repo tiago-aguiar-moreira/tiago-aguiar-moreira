@@ -5,7 +5,6 @@
 - :microphone: I'm host on podcast [Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr). ![ABC](https://img.shields.io/youtube/channel/subscribers/UCv2PFn4UNiS1wmE4tbbCwzg?style=social)
 - :book: [My Blog](https://aguiar.dev.br/blog)
 - :drum: I'm learning how to play drums
-- :email: How to reach me: contato@aguiar.dev.br
 
 ## :rocket: **Skills**
 
