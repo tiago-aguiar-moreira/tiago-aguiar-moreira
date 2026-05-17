@@ -51,20 +51,20 @@
 
 ### 📲 Onde me encontrar
 
+[![Site](https://img.shields.io/badge/beacons.ai-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/aguiardev/inicio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-aguiar)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYVc5vBX8v3Hk-Z9TNFcbNQ)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AguiarDev91)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aguiardev)
-[![beacons.ai](https://img.shields.io/badge/beacons.ai-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/aguiardev/inicio)
 
 ---
 
 ### 📊 GitHub Stats
 
 <a href="https://github.com/tiago-aguiar-moreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiago-aguiar-moreira&show_icons=true&theme=dark&line_height=27" alt="GitHub Stats de Tiago Aguiar"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=tiago-aguiar-moreira&theme=dark&locale=pt_BR" alt="GitHub Streak Stats"/>
 </a>
 <a href="https://github.com/tiago-aguiar-moreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-aguiar-moreira&theme=dark&hide_langs_below=1" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiago-aguiar-moreira&theme=github_dark" alt="GitHub Profile Summary"/>
 </a>
