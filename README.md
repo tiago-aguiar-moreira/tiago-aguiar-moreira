@@ -6,12 +6,12 @@
 
 ### 🧑‍💻 About me
 
+- 🎓 Bachelor's degree in **Computer Science** with two postgraduate degrees
 - 🚀 Developer since **2011**, focused on **back-end** (with some fullstack background)
 - 🔧 My main language is **C#**, with deep knowledge of best practices like **SOLID**, **Clean Code** and **unit testing**
+- 🔁 Experience with async messaging (**Kafka**, **RabbitMQ**), **API REST/SOAP** integration and legacy system modernization
+- ⚙️ CI/CD automation with **Azure DevOps**
 - 📡 Pioneer in implementing **SSE (Server-Sent Events)** for real-time data streaming in my field
-- 🔁 Experience with async messaging (**Kafka**, **RabbitMQ**), **REST/SOAP** integration, **FTP/SFTP schedulers** and legacy system modernization
-- ⚙️ CI/CD automation with **Azure DevOps** and **Octopus Deploy**
-- 🎓 Bachelor's degree in **Computer Science** with two postgraduate degrees
 - 🎥 I share tech and career content on **[Aguiar Dev](https://www.youtube.com/channel/UCYVc5vBX8v3Hk-Z9TNFcbNQ)**, my YouTube channel ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCYVc5vBX8v3Hk-Z9TNFcbNQ?style=social)
 - 🎙️ I host **[Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)**, a podcast about software development and tech careers ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCv2PFn4UNiS1wmE4tbbCwzg?style=social)
 - ✍️ I also write technical articles on **[iMasters](https://imasters.com.br/perfil/tiagoaguiar)**
